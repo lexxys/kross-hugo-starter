@@ -20,19 +20,19 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = "1 rue des cerises à Rouen"
+author = "Alexia Chauvry"
+copyright = "Copyrighht Alexia"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "testmail@test.com"
 google_analitycs_id = "Your ID"
-home = "Home"
+home = "Accueil"
 logo = "images/logo.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://getform.io/f/8932754a-d2f4-45de-8e62-2b94280e19bd"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
